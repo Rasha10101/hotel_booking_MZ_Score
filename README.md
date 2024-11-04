@@ -42,7 +42,7 @@ Key outputs include:
 - **Distribution Plots**: Visualize customer demographics and booking behavior.
 - **Model Performance (if applicable)**: Evaluation metrics for any predictive models.
 
-![Hotel Booking Analysis](s7o90v46.png.png)
+![Hotel Booking Analysis](./A_visually_engaging_image_representing_customer_ch.png)
 
 ## License
 
