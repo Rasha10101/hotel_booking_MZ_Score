@@ -42,7 +42,7 @@ Key outputs include:
 - **Distribution Plots**: Visualize customer demographics and booking behavior.
 - **Model Performance (if applicable)**: Evaluation metrics for any predictive models.
 
-![Hotel Booking Analysis](./A_visually_engaging_image_representing_customer_ch.png)
+![Hotel Booking Analysis](./A_visually_engaging_s7o90v46.png)
 
 ## License
 
@@ -51,6 +51,4 @@ This project is licensed under the MIT License.
 ## Author
 
 This analysis was conducted by [Rasha Alzaher]. For questions or suggestions, feel free to reach out.
-
-
 
